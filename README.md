@@ -18,8 +18,8 @@ AI co-pilot for map design and Egyptian GIS standards.
 
 ```bash
 git clone -b AI https://github.com/Ewis2011/GenAi.git
+Create a file named .env in the project root and add your keys: 'GOOGLE_API_KEY' or 'OPENROUTER_API_KEY'
 cd GenAi
-pip install requirements.txt
-config 'GOOGLE_API_KEY' or 'Openrouter_API_KEY'
+pip install -r requirements.txt
 streamlit run app.py
 ```
