@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Secrets
+.env
+.env.local
+
+# Streamlit & OS
+.streamlit/
+.DS_Store
+Thumbs.db
+
+# Project specific
+*.md_export
