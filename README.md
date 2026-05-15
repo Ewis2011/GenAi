@@ -16,8 +16,8 @@ AI co-pilot for map design and Egyptian GIS standards.
 
 ### 1. Clone the Repository
 
-git clone -b AI https://github.com/Ewis2011/GenAi.git
-cd GenAi
+- git clone -b AI https://github.com/Ewis2011/GenAi.git
+- cd GenAi
 
 ### 2. Install Dependencies
 
